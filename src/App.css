@@ -23,6 +23,17 @@
   color: #61dafb;
 }
 
+.actions {
+  height: 100vh;
+  background: #50D3DB;
+}
+
+.checkbox {
+  float: left;
+}
+
+
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

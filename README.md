@@ -1,3 +1,11 @@
+Example React component app with regression, unit, snapshots and story book deployment.
+
+Live example: https://gracious-jennings-375141.netlify.com/?path=/story/task--default
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
